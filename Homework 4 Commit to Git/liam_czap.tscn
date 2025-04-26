@@ -1,0 +1,6 @@
+[gd_scene load_steps=2 format=3 uid="uid://c7s1tvyx7lgpe"]
+
+[ext_resource type="Script" path="res://liam_czap.gd" id="1_ct8yi"]
+
+[node name="Liam Czap" type="Node3D"]
+script = ExtResource("1_ct8yi")
